@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Programming
 - 🌱 I’m currently learning: Web programming
 - 💞️ I’m looking to collaborate on: Programming, work, react, django, BIM, and more
-- 📫 How to reach me: kevinbasulto2002@gmail.com or +53 51394702
+- 📫 How to reach me: kevinbasulto2002@gmail.com or +52 962 512 77 20
 
 
 <!---
